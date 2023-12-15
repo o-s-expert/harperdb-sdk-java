@@ -16,8 +16,8 @@ To use the SDK in your project, add the following Maven dependency:
 [source,xml]
 ----
 <dependency>
-   <groupId>expert.os.harpderdb</groupId>
-    <artifactId>harpderdb-parent</artifactId>
+   <groupId>io.harperdb</groupId>
+    <artifactId>harpderdb-core</artifactId>
     <version>0.0.1</version>
 </dependency>
 ----
