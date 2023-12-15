@@ -22,7 +22,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>expert.os.harpderdb</groupId>
+        <groupId>io.harperdb</groupId>
         <artifactId>harpderdb-parent</artifactId>
         <version>0.0.2-SNAPSHOT</version>
     </parent>
