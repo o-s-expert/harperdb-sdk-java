@@ -23,7 +23,7 @@
 
     <groupId>io.harperdb</groupId>
     <artifactId>harpderdb-parent</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>harpderdb-parent</name>
     <description>Java implementations of HarperDB API functions. Also provides wrappers for an object-oriented interface</description>
